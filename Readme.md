@@ -1,3 +1,6 @@
+# Mobilize! Hackathon
+**Preso:** https://docs.google.com/presentation/d/1qjmtuTJyQA3aU0MyAHr-HMhOfAIqGYofzYe0DcssEhk/edit#slide=id.p
+
 **What:** AMP-up (?) - music learning app. A “piazza for music” where snippets of music can be posted and users can discuss, play, compare and ask about them. Social, collaborative, cloud-based, crowdsourced instrument learning app.
 
 **Before we begin:**
